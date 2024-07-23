@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./index-CMslfxwg.js";const c={},a=s("h1",null,"Update post",-1),n=[a];function _(r,d){return t(),o("div",null,n)}const i=e(c,[["render",_]]);export{i as default};

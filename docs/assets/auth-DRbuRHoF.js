@@ -1,0 +1,1 @@
+import{a as o,p as c}from"./index-CZdFW333.js";const n=async(a,r)=>{try{return await o("/createAccount",`short_name=${a}&author_name=${r}`)}catch(t){throw c(t),t}},s=async(a,r)=>{try{return await o("/editAccountInfo",`short_name=${a}&author_name=${r}`)}catch(t){throw c(t),t}};export{n as r,s as u};
